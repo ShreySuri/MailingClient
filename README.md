@@ -1,1 +1,1 @@
-# MailingClient2
+# MailingClient
