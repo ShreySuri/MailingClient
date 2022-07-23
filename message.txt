@@ -1,1 +1,6 @@
-,
+Hello World!
+
+This is a mail sent with Python
+
+Sincerely,
+Shrey Suri
